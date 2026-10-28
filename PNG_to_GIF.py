@@ -1,7 +1,7 @@
 from PIL import Image
 from pathlib import Path
 import sys
-
+#comment added
 # 1. Ask for the path where the PNG files are located
 input_path_str = input("Enter the path to the folder containing PNG files: ").strip()
 # Remove quotes if the user pasted a path with quotes (common in Windows)
